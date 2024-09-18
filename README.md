@@ -10,4 +10,4 @@ The state is expressed as a permutation of 9 digits (from 0 to 8) which correspo
 * ‘hard’– [7,2,4,5,0,6,8,3,1]
 
 # How to run
-Just run the solution.py using your preferred IDE. Feel free to change the difficulty and even change the initial state if you would like to. You might have to interrupt the terminal if you closed the popup before the puzzle is solved.
+To run this project, you need to have Python installed on your machine. Clone this repository and run the script using Python. Feel free to change the difficulty and even change the initial state if you would like to. You might have to interrupt the terminal if you closed the popup before the puzzle is solved.
